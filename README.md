@@ -12,4 +12,5 @@
 
  * Added rows for each hour of the work day
 
- * 
+![Site Screenshot](./Assets/site-screenshot-01.png)
+![Site Screenshot](./Assets/site-screenshot-02.png)
