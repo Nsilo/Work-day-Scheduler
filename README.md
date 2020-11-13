@@ -12,5 +12,9 @@
 
  * Added rows for each hour of the work day
 
+ * Found an app breaking bug involving null
+
+ * syntax errors are the main problem but they were resolved
+
 ![Site Screenshot](./Assets/site-screenshot-01.png)
 ![Site Screenshot](./Assets/site-screenshot-02.png)
